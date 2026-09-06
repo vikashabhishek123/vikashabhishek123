@@ -10,6 +10,9 @@
 
 - 💬 Ask me about **PYTHON,SQL,HTML,CSS,JAVASCRIPT**
 
+- 🎓 I'm a **First-Year B.Tech CSE Student** passionate about technology and programming.
+
+
 - 📫 How to reach me **vikashabhishek123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
